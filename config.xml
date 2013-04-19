@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget>
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>DeviceOnReady-and-Online</name>
+
+    <description>
+       Ispitivanje spremnosti i online statusa
+    </description>
+
+    <author href="#" email="m.milicevic.etf@gmail.com">
+        Milan Milicevic
+    </author>
+    <access origin="*" />
+
+</widget>
